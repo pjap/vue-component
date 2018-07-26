@@ -15,6 +15,6 @@ export default {
     width: 500px;
     border: 1px solid black;
     padding: 30px;
-    background-color: gold;
+    background-color: lightgreen;
   }
 </style>
